@@ -1,7 +1,12 @@
 [
   {
-    "name": "god of war",
-    "icon": "https://messenger802.iranlms.ir/InternFile.ashx?id\u003d3093414114\u0026ach\u003d0625327103981609597618798665852021031600",
-    "code": "mod by hsi gamer"
+    "name": "خدای جنگ روح اسپارت ها",
+    "code": "منبع رو به صورت مستقیم از سرور اضافه کنید",
+    "icon": "https://images.all-free-download.com/images/graphiclarge/star_wars_the_force_unleashed_2_3_96407.jpg"
+  },
+  {
+    "name": "خدای جنگ زنجیر های المپ",
+    "code": "منبع به صورت مستقیم اضافه کنید",
+    "icon": "https://images.all-free-download.com/images/graphiclarge/god_of_war_iii_2_95735.jpg"
   }
 ]
