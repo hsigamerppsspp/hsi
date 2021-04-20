@@ -1,7 +1,14 @@
 [
   {
-    "name": "batman",
-    "icon1": "https://libertycity.net/uploads/download/gtasaios_newskins/fulls/54970cf7d60cd7cf69153fe9138ba38a/16188619065255_screenshot_20161122-020842.jpg",
-    "file": "https://libertycity.net/uploads/download/gtasaios_newskins/1618861895_1618859773_batman-skin-tdkr.zip"
+    "name": "نیسان جی تی",
+    "icon1": "https://www.mobilegta.net/downloads/picr/2021-04/thb_1618859851_ss1.jpg",
+    "lego": "https://www.mobilegta.net/downloads/picr/2021-04/thb_1618859851_ss1.jpg",
+    "file": "https://fileservice.gtainside.com/downloads/ftpl/1618859851_lb%20silhouette%20gtr%20SAlights%20for%20mobile.rar"
+  },
+  {
+    "name": "ford gt 2020",
+    "icon1": "https://www.mobilegta.net/downloads/picr/2021-04/thb_1618600653_ss1.jpg",
+    "lego": "https://www.mobilegta.net/downloads/picr/2021-04/thb_1618600653_ss1.jpg",
+    "file": "https://fileservice.gtainside.com/downloads/ftpl/1618600653_gtr50%20110scale%20for%20mobile.rar"
   }
 ]
