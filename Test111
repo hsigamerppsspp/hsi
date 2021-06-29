@@ -1,8 +1,9 @@
-[
-  {
-    "icon": "https://beytop.ir/wp-content/uploads/2021/01/wallpaper-4k-new-beytop.ir-07-768x1365.jpg"
-  },
-  {
-    "icon": "https://beytop.ir/wp-content/uploads/2021/01/wallpaper-4k-new-beytop.ir-44-691x1536.jpg"
-  }
-]
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <element>
+    <icon>https://www.evjaj.com/wp-content/uploads/2019/07/7eayqjmm61uxswwrqxmc0kdzg-199x420.jpg</icon>
+  </element>
+  <element>
+    <icon>https://www.evjaj.com/wp-content/uploads/2019/07/wp3611700-210x420.jpg</icon>
+  </element>
+</root>
